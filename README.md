@@ -1,4 +1,3 @@
 # test
 CHANGE
-Differentchange
-asdasdasd
+this is a merged change
