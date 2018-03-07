@@ -16,6 +16,7 @@ namespace _02._Split_Lists
             //I MADE THIS CHANGE
 
 
+
             Console.WriteLine(string.Join(" ", number));
             
                            
